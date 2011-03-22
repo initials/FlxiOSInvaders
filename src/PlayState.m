@@ -305,6 +305,20 @@ int _alienBulletIndex;
 		ship.x = FlxG.width/2-6;
 		ship.y = FlxG.height-12;
 	}	
+	
+	//also reset shields.
+	int i=0;
+	for (FlxSprite * s in _shields.members) {
+		s.dead = NO;
+		int posx = (int) 32 + 80 * (i / 64) + (i % 8) * 2;
+		int posy = (int) FlxG.height - 32 + ((i % 64) / 8) * 2;
+		s.x = posx;
+		s.y = posy-20;
+		i++;
+	}
+
+	
+	
 }
 
 
