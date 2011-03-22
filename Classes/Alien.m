@@ -12,7 +12,7 @@ static NSString * ImgAlien = @"alien.png";
 	return [[[self alloc] init] autorelease];
 }
 
-- (id) initWithOrigin:(CGPoint)Origin
+- (id) initWithOrigin:(CGPoint)Origin colorAnim:(int)colorAnim
 {
 	if ((self = [super initWithX:Origin.x y:Origin.y graphic:nil])) {
 		
@@ -23,9 +23,32 @@ static NSString * ImgAlien = @"alien.png";
 		//To avoid a weird, annoying appearance the framerate is randomized a little bit
 		// to a value between 6 and 10 (6+4) frames per second.
 		// AS3 addAnimation("Default",[0,1,0,2],6+FlxU.random()*4);
-		[self addAnimationWithParam1:@"Default" param2:[NSMutableArray intArrayWithSize:4 ints:0,1,0,2] param3:6+[FlxU random] *4];
+		[self addAnimationWithParam1:@"DarkBlue" param2:[NSMutableArray intArrayWithSize:4 ints:0,1,0,2] param3:6+[FlxU random] *4];
+		[self addAnimationWithParam1:@"LightBlue" param2:[NSMutableArray intArrayWithSize:4 ints:3,4,3,5] param3:6+[FlxU random] *4];
+		[self addAnimationWithParam1:@"Green" param2:[NSMutableArray intArrayWithSize:4 ints:6,7,6,8] param3:6+[FlxU random] *4];
+		[self addAnimationWithParam1:@"Yellow" param2:[NSMutableArray intArrayWithSize:4 ints:9,10,9,11] param3:6+[FlxU random] *4];
+		[self addAnimationWithParam1:@"Red" param2:[NSMutableArray intArrayWithSize:4 ints:12,13,12,14] param3:6+[FlxU random] *4];
 		
 		//Now that the animation is set up, it's very easy to play it back!
+		switch (colorAnim) {
+			case 0:
+				[self playWithParam1:@"DarkBlue" param2:YES];
+				break;
+			case 1:
+				[self playWithParam1:@"LightBlue" param2:YES];
+				break;
+			case 2:
+				[self playWithParam1:@"Green" param2:YES];
+				break;
+			case 3:
+				[self playWithParam1:@"Yellow" param2:YES];
+				break;
+			case 4:
+				[self playWithParam1:@"Red" param2:YES];
+				break;
+			default:
+				break;
+		}
 		[self playWithParam1:@"Default" param2:YES];
 		
 		//Everybody move to the right!
@@ -34,7 +57,7 @@ static NSString * ImgAlien = @"alien.png";
 		originalX = self.x;
 		originalY = self.y;
 		
-		// not implemented?
+		// not implemented? Instead using the Color attr to determine which animation to play
 		// self.color = 0xff00ff00;
 		
 		

@@ -75,11 +75,15 @@ int _alienBulletIndex;
 	
 	//...then we go through and make the invaders.  This looks all mathy but it's not that bad!
 	//We're basically making 5 rows of 10 invaders, and each row is a different color.
-	
+					  
 	for(i = 0; i < 50; i++)
 	{
+		int color = (int) i / 10;
+
 		alien = [[Alien alloc] initWithOrigin:CGPointMake(8 + (i % 10) * 31,
-														  24 + (i / 10) * 31)];
+														  32 + (i / 10) * 31)
+									colorAnim:color
+				 ];
 
 		[_aliens add:alien];
 	}

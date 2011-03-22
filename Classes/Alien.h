@@ -16,7 +16,7 @@
 
 + (id) alien;
 //- (id) init;
-- (id) initWithOrigin:(CGPoint)origin;
+- (id) initWithOrigin:(CGPoint)origin colorAnim:(int)colorAnim;
 //- (id) initWithOrigin:(CGPoint)origin color:(int)color;
 
 
