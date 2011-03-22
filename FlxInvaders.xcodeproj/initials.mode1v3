@@ -231,8 +231,6 @@
 			<key>Layout</key>
 			<array>
 				<dict>
-					<key>BecomeActive</key>
-					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -307,7 +305,7 @@
 							<real>184</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>9 129 1179 873 0 0 1280 1002 </string>
+						<string>10 129 1179 873 0 0 1280 1002 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -318,6 +316,8 @@
 					<key>Dock</key>
 					<array>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -335,7 +335,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>D2B8D85C1338925500A2488B</string>
+										<string>D2B8D8721338A6A400A2488B</string>
 										<key>history</key>
 										<array>
 											<string>D2E16C21133748C200B9B830</string>
@@ -349,14 +349,14 @@
 											<string>D2E16F7F133782C000B9B830</string>
 											<string>D2E16F80133782C000B9B830</string>
 											<string>D2E16FA1133783B300B9B830</string>
-											<string>D2E1700B1337852800B9B830</string>
 											<string>D2E1700C1337852800B9B830</string>
 											<string>D2E1701B1337874600B9B830</string>
 											<string>D2E1701C1337874600B9B830</string>
 											<string>D2B8D844133890F100A2488B</string>
-											<string>D2B8D85A1338925500A2488B</string>
 											<string>D2B8D85B1338925500A2488B</string>
-											<string>D2B8D8561338912300A2488B</string>
+											<string>D2B8D8601338A34500A2488B</string>
+											<string>D2B8D8691338A5D900A2488B</string>
+											<string>D2B8D85F1338A34500A2488B</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -370,7 +370,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {973, 634}}</string>
 								<key>RubberWindowFrame</key>
-								<string>9 129 1179 873 0 0 1280 1002 </string>
+								<string>10 129 1179 873 0 0 1280 1002 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -390,7 +390,7 @@
 								<key>Frame</key>
 								<string>{{0, 639}, {973, 193}}</string>
 								<key>RubberWindowFrame</key>
-								<string>9 129 1179 873 0 0 1280 1002 </string>
+								<string>10 129 1179 873 0 0 1280 1002 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -562,7 +562,7 @@
 		<string>/Users/initials/developer/FlxInvaders/FlxInvaders.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>9 129 1179 873 0 0 1280 1002 </string>
+	<string>10 129 1179 873 0 0 1280 1002 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

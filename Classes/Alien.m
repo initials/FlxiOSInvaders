@@ -106,6 +106,12 @@ static NSString * ImgAlien = @"alien.png";
 			x = originalX + 8;
 			velocity.x = -10;
 		}
+		
+		if (y >  originalY + FlxG.height/2) {
+			velocity = CGPointMake(self.velocity.x, 0);
+			y = originalY + FlxG.height/2;
+		}
+		
 	}
 	
 	[super update];

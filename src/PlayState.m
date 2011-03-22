@@ -81,7 +81,7 @@ int _alienBulletIndex;
 		int color = (int) i / 10;
 
 		alien = [[Alien alloc] initWithOrigin:CGPointMake(8 + (i % 10) * 31,
-														  32 + (i / 10) * 31)
+														  40 + (i / 10) * 31)
 									colorAnim:color
 				 ];
 
@@ -180,8 +180,10 @@ int _alienBulletIndex;
 	//I can't figure out how to pass the bullets to it
 	//Finally, we gotta shoot some bullets amirite?  First we check to see if the
 	// screen was just pressed (no autofire in space invaders you guys)
-  	//if (FlxG.touches.touchesBegan) {
-	if (FlxG.touches.touching) { //just for debugging. saving my thumb
+  	if (FlxG.touches.touchesBegan) {
+		
+	//just for debugging. RAPID FIRE
+	//if (FlxG.touches.touching) { 
 		//Screen was pressed!  FIRE A BULLET
 
 		FlxSprite * b = [_playerBullets.members objectAtIndex:_playerBulletIndex];
