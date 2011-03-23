@@ -1,15 +1,20 @@
 A port of FlxInvaders for iOS.
-Ported by Initials.
 
-Not a perfect port. Issues:
+FlxInvaders was originally written by Adam Atomic.
+www.adamatomic.com
 
-FlxU.overlap doesn't work in the current version of Flixel iOS.
+For the original Flash version visit www.flixel.org/flxinvaders
+
+This port by Initials.
+www.initialscommand.com
+e: initials@initialscommand.com
+
+Not a perfect port. Issues (please correct me if I'm wrong):
+
+[FlxU overlap] doesn't work on FlxGroups.
 
 FlxSprite.color doesn't seem to work.
 
 I can't figure out how to pass a FlxGroup to a FlxSprite, so all the bullet logic gets done in the PlayState. 
-
-www.initialscommand.com
-e: initials@initialscommand.com
 
 For the original Flash version visit www.flixel.org/flxinvaders

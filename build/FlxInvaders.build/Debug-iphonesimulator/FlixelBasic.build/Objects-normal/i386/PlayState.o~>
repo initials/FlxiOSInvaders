@@ -1,0 +1,34 @@
+/Users/initials/developer/FlxInvaders/src/PlayState.m:17:17: error: Ship.h: No such file or directory
+/Users/initials/developer/FlxInvaders/src/PlayState.m:18:18: error: Alien.h: No such file or directory
+/Users/initials/developer/FlxInvaders/src/PlayState.m: In function '-[PlayState create]':
+/Users/initials/developer/FlxInvaders/src/PlayState.m:56: warning: receiver 'Ship' is a forward class and corresponding @interface may not exist
+/Users/initials/developer/FlxInvaders/src/PlayState.m:57: warning: incompatible Objective-C types 'struct Ship *', expected 'struct FlxObject *' when passing argument 1 of 'add:' from distinct Objective-C type
+/Users/initials/developer/FlxInvaders/src/PlayState.m:83: warning: receiver 'Alien' is a forward class and corresponding @interface may not exist
+/Users/initials/developer/FlxInvaders/src/PlayState.m:86: warning: no '-initWithOrigin:colorAnim:' method found
+/Users/initials/developer/FlxInvaders/src/PlayState.m:86: warning: (Messages without a matching method signature
+/Users/initials/developer/FlxInvaders/src/PlayState.m:86: warning: will be assumed to return 'id' and accept
+/Users/initials/developer/FlxInvaders/src/PlayState.m:86: warning: '...' as arguments.)
+/Users/initials/developer/FlxInvaders/src/PlayState.m:88: warning: incompatible Objective-C types 'struct Alien *', expected 'struct FlxObject *' when passing argument 1 of 'add:' from distinct Objective-C type
+/Users/initials/developer/FlxInvaders/src/PlayState.m: In function '-[PlayState accelerometer:didAccelerate:]':
+/Users/initials/developer/FlxInvaders/src/PlayState.m:134: error: request for member 'velocity' in something not a structure or union
+/Users/initials/developer/FlxInvaders/src/PlayState.m: In function '-[PlayState update]':
+/Users/initials/developer/FlxInvaders/src/PlayState.m:191: error: request for member 'x' in something not a structure or union
+/Users/initials/developer/FlxInvaders/src/PlayState.m:191: error: request for member 'width' in something not a structure or union
+/Users/initials/developer/FlxInvaders/src/PlayState.m:192: error: request for member 'y' in something not a structure or union
+/Users/initials/developer/FlxInvaders/src/PlayState.m:252: error: request for member 'x' in something not a structure or union
+/Users/initials/developer/FlxInvaders/src/PlayState.m:253: error: request for member 'y' in something not a structure or union
+/Users/initials/developer/FlxInvaders/src/PlayState.m:254: error: request for member 'dead' in something not a structure or union
+/Users/initials/developer/FlxInvaders/src/PlayState.m:255: error: request for member 'velocity' in something not a structure or union
+/Users/initials/developer/FlxInvaders/src/PlayState.m:264: warning: incompatible Objective-C types 'struct Ship *', expected 'struct FlxObject *' when passing argument 1 of 'overlaps:' from distinct Objective-C type
+/Users/initials/developer/FlxInvaders/src/PlayState.m:265: error: request for member 'dead' in something not a structure or union
+/Users/initials/developer/FlxInvaders/src/PlayState.m:275: error: request for member 'dead' in something not a structure or union
+/Users/initials/developer/FlxInvaders/src/PlayState.m: In function '-[PlayState resetAliens]':
+/Users/initials/developer/FlxInvaders/src/PlayState.m:300: error: request for member 'x' in something not a structure or union
+/Users/initials/developer/FlxInvaders/src/PlayState.m:300: error: request for member 'originalX' in something not a structure or union
+/Users/initials/developer/FlxInvaders/src/PlayState.m:301: error: request for member 'y' in something not a structure or union
+/Users/initials/developer/FlxInvaders/src/PlayState.m:301: error: request for member 'originalY' in something not a structure or union
+/Users/initials/developer/FlxInvaders/src/PlayState.m:302: error: request for member 'dead' in something not a structure or union
+/Users/initials/developer/FlxInvaders/src/PlayState.m:303: error: request for member 'velocity' in something not a structure or union
+/Users/initials/developer/FlxInvaders/src/PlayState.m:304: error: request for member 'dead' in something not a structure or union
+/Users/initials/developer/FlxInvaders/src/PlayState.m:305: error: request for member 'x' in something not a structure or union
+/Users/initials/developer/FlxInvaders/src/PlayState.m:306: error: request for member 'y' in something not a structure or union

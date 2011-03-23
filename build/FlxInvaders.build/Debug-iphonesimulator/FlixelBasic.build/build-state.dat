@@ -1,0 +1,1579 @@
+TFlixelBasic
+v7
+r0
+t322572644.248893
+cCheck dependencies
+cProcessInfoPlistFile /Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/FlxInvaders.app/Flixel.ttf flixel-ios/fonts/Flixel.ttf
+cCpResource build/Debug-iphonesimulator/FlxInvaders.app/ship.png data/ship.png
+cCpResource build/Debug-iphonesimulator/FlxInvaders.app/icon.png data/icon.png
+cCpResource build/Debug-iphonesimulator/FlxInvaders.app/Default.png data/Default.png
+cCpResource build/Debug-iphonesimulator/FlxInvaders.app/alien.png data/alien.png
+cProcessPCH /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/main.o /Users/initials/developer/FlxInvaders/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/AppDelegate.o /Users/initials/developer/FlxInvaders/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxInvaders.o /Users/initials/developer/FlxInvaders/src/FlxInvaders.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/PlayState.o /Users/initials/developer/FlxInvaders/src/PlayState.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlashFunction.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashFunction.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlashObject.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashObject.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlashPoint.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashPoint.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlashRectangle.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashRectangle.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxAnim.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxAnim.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxButton.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxEmitter.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxEmitter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxFade.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxFade.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxFlash.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxFlash.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxG.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxG.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxGLView.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxGLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxGame.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxGame.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxGroup.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxGroup.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxList.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxList.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxManagedSprite.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxManagedSprite.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxObject.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxObject.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxPoint.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxPoint.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxQuadTree.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxQuadTree.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxQuake.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxQuake.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxRect.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxRect.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxSave.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxSave.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxSound.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxSound.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxSprite.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxSprite.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxState.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxState.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxText.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxText.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxTouches.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxTouches.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxU.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxU.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/SemiSecretFont.o /Users/initials/developer/FlxInvaders/flixel-ios/src/SemiSecret/SemiSecretFont.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/SemiSecretText.o /Users/initials/developer/FlxInvaders/flixel-ios/src/SemiSecret/SemiSecretText.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/SemiSecretTexture.o /Users/initials/developer/FlxInvaders/flixel-ios/src/SemiSecret/SemiSecretTexture.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlixelFont.o /Users/initials/developer/FlxInvaders/flixel-ios/fonts/FlixelFont.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxTileblock.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxTileblock.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlixelAPTBindings.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlixelAPTBindings.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/UIImage+RIFAddition.o /Users/initials/developer/FlxInvaders/Classes/UIImage+RIFAddition.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/Ship.o /Users/initials/developer/FlxInvaders/Classes/Ship.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/Alien.o /Users/initials/developer/FlxInvaders/Classes/Alien.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app/FlxInvaders normal i386
+cGenerateDSYMFile /Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app.dSYM /Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app/FlxInvaders
+cTouch /Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC128840000000000000733
+t1287727236
+s1843
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC1222F0000000000000A23
+t1287725615
+s2595
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000004CC1220900000000000A8450
+t1287725577
+s689232
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreAudio.framework/Headers/CoreAudioTypes.h
+c000000004CC12203000000000001032E
+t1287725571
+s66350
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004CC121DB00000000000004FE
+t1287725531
+s1278
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c000000004CC1226100000000000064FD
+t1287725665
+s25853
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
+c000000004CC122610000000000001F45
+t1287725665
+s8005
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004CC1226400000000000246A0
+t1287725668
+s149152
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004CC12308000000000000094F
+t1287725832
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004CC123080000000000009369
+t1287725832
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004CC123080000000000003C4A
+t1287725832
+s15434
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004CC1230E0000000000019D40
+t1287725838
+s105792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/sysctl.h
+c000000004CBFACAC0000000000007974
+t1287629996
+s31092
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/types.h
+c000000004CBFACAC0000000000002905
+t1287629996
+s10501
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/unistd.h
+c000000004CB3E486000000000000563E
+t1286857862
+s22078
+
+N/Users/initials/developer/FlxInvaders/Classes/Alien.h
+c000000004D8858750000000000000215
+t1300781173
+s533
+
+N/Users/initials/developer/FlxInvaders/Classes/Alien.m
+c000000004D886F220000000000000BD5
+t1300786978
+s3029
+i"Alien.h"
+
+N/Users/initials/developer/FlxInvaders/Classes/AppDelegate.h
+c000000004D87093800000000000002FC
+t1300695352
+s764
+i<UIKit/UIKit.h>
+i<Flixel/Flixel.h>
+
+N/Users/initials/developer/FlxInvaders/Classes/AppDelegate.m
+c000000004D8709380000000000000C60
+t1300695352
+s3168
+i"AppDelegate.h"
+i"FlxInvaders.h"
+i<SemiSecret/SemiSecretTexture.h>
+
+N/Users/initials/developer/FlxInvaders/Classes/Ship.h
+c000000004D8728110000000000000190
+t1300703249
+s400
+
+N/Users/initials/developer/FlxInvaders/Classes/Ship.m
+c000000004D872902000000000000033A
+t1300703490
+s826
+i"Ship.h"
+
+N/Users/initials/developer/FlxInvaders/Classes/UIImage+RIFAddition.h
+c000000004D8709380000000000000369
+t1300695352
+s873
+i<UIKit/UIKit.h>
+
+N/Users/initials/developer/FlxInvaders/Classes/UIImage+RIFAddition.m
+c000000004D8709380000000000000A6E
+t1300695352
+s2670
+i"UIImage+RIFAddition.h"
+
+N/Users/initials/developer/FlxInvaders/Prefix.pch
+c000000004D87093800000000000003CB
+t1300695352
+s971
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<Flixel/Flixel.h>
+i"UIImage+RIFAddition.h"
+
+N/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app
+t1300879844
+s340
+
+N/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app.dSYM
+t1300879844
+s102
+
+N/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app/Default.png
+t1300879833
+s3447
+
+N/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app/Flixel.ttf
+t1300879833
+s16272
+
+N/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app/FlxInvaders
+t1300879843
+s438860
+
+N/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app/Info.plist
+t1300879833
+s882
+
+N/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app/PkgInfo
+t1300879833
+s8
+
+N/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app/alien.png
+t1300879833
+s3179
+
+N/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app/icon.png
+t1300879833
+s3035
+
+N/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app/ship.png
+t1300879833
+s159
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/Alien.o
+t1300879842
+s19704
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/AppDelegate.o
+t1300879833
+s57360
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlashFunction.o
+t1300879834
+s20848
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlashObject.o
+t1300879834
+s6464
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlashPoint.o
+t1300879835
+s20248
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlashRectangle.o
+t1300879835
+s32348
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlixelAPTBindings.o
+t1300879842
+s26200
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlixelFont.o
+t1300879842
+s28760
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxAnim.o
+t1300879835
+s14872
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxButton.o
+t1300879835
+s57672
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxEmitter.o
+t1300879836
+s50932
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxFade.o
+t1300879836
+s17828
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxFlash.o
+t1300879836
+s18124
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxG.o
+t1300879838
+s152744
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxGLView.o
+t1300879836
+s54276
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxGame.o
+t1300879837
+s95660
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxGroup.o
+t1300879838
+s40732
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxInvaders.LinkFileList
+c000000004D89D9D80000000000001507
+t1300879832
+s5383
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxInvaders.o
+t1300879833
+s44076
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxList.o
+t1300879838
+s11980
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxManagedSprite.o
+t1300879838
+s35116
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxObject.o
+t1300879839
+s63224
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxPoint.o
+t1300879839
+s13068
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxQuadTree.o
+t1300879840
+s53712
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxQuake.o
+t1300879839
+s15560
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxRect.o
+t1300879839
+s12380
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxSave.o
+t1300879839
+s16936
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxSound.o
+t1300879840
+s17648
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxSprite.o
+t1300879841
+s121132
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxState.o
+t1300879840
+s16844
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxText.o
+t1300879840
+s69928
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxTileblock.o
+t1300879842
+s54116
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxTouches.o
+t1300879840
+s55728
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxU.o
+t1300879841
+s57152
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/PlayState.o
+t1300879834
+s66900
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/SemiSecretFont.o
+t1300879841
+s16784
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/SemiSecretText.o
+t1300879841
+s77744
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/SemiSecretTexture.o
+t1300879842
+s80544
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/Ship.o
+t1300879842
+s16916
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/UIImage+RIFAddition.o
+t1300879842
+s14100
+
+N/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/main.o
+t1300879833
+s6832
+
+N/Users/initials/developer/FlxInvaders/data/Default.png
+c000000004D886D050000000000000D77
+t1300786437
+s3447
+
+N/Users/initials/developer/FlxInvaders/data/alien.png
+c000000004D88571C0000000000000C6B
+t1300780828
+s3179
+
+N/Users/initials/developer/FlxInvaders/data/icon.png
+c000000004D870F4A0000000000000BDB
+t1300696906
+s3035
+
+N/Users/initials/developer/FlxInvaders/data/ship.png
+c000000004B7875F4000000000000009F
+t1266185716
+s159
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flash/Flash.h
+c000000004D8709380000000000000331
+t1300695352
+s817
+i<Flash/FlashObject.h>
+i<Flash/FlashPoint.h>
+i<Flash/FlashRectangle.h>
+i<Flash/FlashFunction.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flash/FlashFunction.h
+c000000004D870938000000000000043C
+t1300695352
+s1084
+i<Flash/FlashObject.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flash/FlashObject.h
+c000000004D87093800000000000003ED
+t1300695352
+s1005
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flash/FlashPoint.h
+c000000004D870938000000000000066B
+t1300695352
+s1643
+i<Flash/FlashObject.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flash/FlashRectangle.h
+c000000004D870938000000000000080D
+t1300695352
+s2061
+i<Flash/FlashObject.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/Flixel.h
+c000000004D870938000000000000055E
+t1300695352
+s1374
+i<Flash/Flash.h>
+i<SemiSecret/SemiSecret.h>
+i<Flixel/FlxAnim.h>
+i<Flixel/FlxButton.h>
+i<Flixel/FlxEmitter.h>
+i<Flixel/FlxFade.h>
+i<Flixel/FlxFlash.h>
+i<Flixel/FlxG.h>
+i<Flixel/FlxGLView.h>
+i<Flixel/FlxGame.h>
+i<Flixel/FlxGroup.h>
+i<Flixel/FlxList.h>
+i<Flixel/FlxManagedSprite.h>
+i<Flixel/FlxObject.h>
+i<Flixel/FlxPoint.h>
+i<Flixel/FlxQuadTree.h>
+i<Flixel/FlxQuake.h>
+i<Flixel/FlxRect.h>
+i<Flixel/FlxSave.h>
+i<Flixel/FlxSound.h>
+i<Flixel/FlxSprite.h>
+i<Flixel/FlxState.h>
+i<Flixel/FlxText.h>
+i<Flixel/FlxTileblock.h>
+i<Flixel/FlxTouches.h>
+i<Flixel/FlxU.h>
+i<Flixel/FlixelAPTBindings.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlixelAPTBindings.h
+c000000004D8709380000000000000D2D
+t1300695352
+s3373
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlxAnim.h
+c000000004D87093800000000000005F6
+t1300695352
+s1526
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlxButton.h
+c000000004D870938000000000000053C
+t1300695352
+s1340
+i<Flixel/FlxGroup.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlxEmitter.h
+c000000004D8709380000000000000CD9
+t1300695352
+s3289
+i<Flixel/FlxGroup.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlxFade.h
+c000000004D870938000000000000046D
+t1300695352
+s1133
+i<Flixel/FlxSprite.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlxFlash.h
+c000000004D870938000000000000045C
+t1300695352
+s1116
+i<Flixel/FlxSprite.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlxG.h
+c000000004D870938000000000000118E
+t1300695352
+s4494
+i<AVFoundation/AVFoundation.h>
+i<OpenAL/alc.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlxGLView.h
+c000000004D87093800000000000004E8
+t1300695352
+s1256
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlxGame.h
+c000000004D8709380000000000000B7B
+t1300695352
+s2939
+i<OpenGLES/ES1/gl.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlxGroup.h
+c000000004D8709380000000000000654
+t1300695352
+s1620
+i<Flixel/FlxObject.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlxList.h
+c000000004D8709380000000000000323
+t1300695352
+s803
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlxManagedSprite.h
+c000000004D870938000000000000031C
+t1300695352
+s796
+i<Flixel/FlxSprite.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlxObject.h
+c000000004D87093800000000000011D2
+t1300695352
+s4562
+i<Flixel/FlxRect.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlxPoint.h
+c000000004D870938000000000000045A
+t1300695352
+s1114
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlxQuadTree.h
+c000000004D8709380000000000000762
+t1300695352
+s1890
+i<Flixel/FlxRect.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlxQuake.h
+c000000004D8709380000000000000432
+t1300695352
+s1074
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlxRect.h
+c000000004D8709380000000000000497
+t1300695352
+s1175
+i<Flixel/FlxPoint.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlxSave.h
+c000000004D87093800000000000004E4
+t1300695352
+s1252
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlxSound.h
+c000000004D870938000000000000078E
+t1300695352
+s1934
+i<Flixel/FlxObject.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlxSprite.h
+c000000004D87093800000000000018C7
+t1300695352
+s6343
+i<Flixel/FlxObject.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlxState.h
+c000000004D870938000000000000050C
+t1300695352
+s1292
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlxText.h
+c000000004D8709380000000000000911
+t1300695352
+s2321
+i<Flixel/FlxSprite.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlxTileblock.h
+c000000004D87093800000000000004C8
+t1300695352
+s1224
+i<Flixel/FlxObject.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlxTouches.h
+c000000004D8709380000000000000611
+t1300695352
+s1553
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/Flixel/FlxU.h
+c000000004D8709380000000000000BAA
+t1300695352
+s2986
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/SemiSecret/SemiSecret.h
+c000000004D87093800000000000002CE
+t1300695352
+s718
+i<SemiSecret/SemiSecretFont.h>
+i<SemiSecret/SemiSecretText.h>
+i<SemiSecret/SemiSecretTexture.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/SemiSecret/SemiSecretFont.h
+c000000004D87093800000000000004D4
+t1300695352
+s1236
+i<CoreGraphics/CoreGraphics.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/SemiSecret/SemiSecretText.h
+c000000004D87093800000000000007C1
+t1300695352
+s1985
+i<UIKit/UIKit.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/Headers/SemiSecret/SemiSecretTexture.h
+c000000004D8709380000000000000B24
+t1300695352
+s2852
+i<Foundation/Foundation.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/fonts/Flixel.ttf
+c000000004D8709380000000000003F90
+t1300695352
+s16272
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/fonts/FlixelFont.m
+c000000004D87093800000000000047F9
+t1300695352
+s18425
+i<SemiSecret/SemiSecret.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashFunction.m
+c000000004D870938000000000000137A
+t1300695352
+s4986
+i<Flash/Flash.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashObject.m
+c000000004D87093800000000000002CE
+t1300695352
+s718
+i<Flash/Flash.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashPoint.m
+c000000004D8709380000000000000B34
+t1300695352
+s2868
+i<Flash/Flash.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashRectangle.m
+c000000004D870938000000000000119C
+t1300695352
+s4508
+i<Flash/Flash.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlixelAPTBindings.m
+c000000004D8709380000000000001462
+t1300695352
+s5218
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxAnim.m
+c000000004D87093800000000000007C9
+t1300695352
+s1993
+i<Flixel/Flixel.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxButton.m
+c000000004D870938000000000000174F
+t1300695352
+s5967
+i<Flixel/Flixel.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxEmitter.m
+c000000004D8709380000000000002400
+t1300695352
+s9216
+i<Flixel/Flixel.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxFade.m
+c000000004D8709380000000000000A82
+t1300695352
+s2690
+i<Flixel/Flixel.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxFlash.m
+c000000004D8709380000000000000AD0
+t1300695352
+s2768
+i<Flixel/Flixel.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxG.m
+c000000004D870938000000000000B502
+t1300695352
+s46338
+i<Flixel/Flixel.h>
+i<AudioToolbox/AudioToolbox.h>
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<CoreAudio/CoreAudioTypes.h>
+i<sys/types.h>
+i<sys/sysctl.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxGLView.m
+c000000004D87093800000000000014AE
+t1300695352
+s5294
+i<Flixel/Flixel.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/glext.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxGame.m
+c000000004D87093800000000000067BA
+t1300695352
+s26554
+i<Flixel/Flixel.h>
+i<SemiSecret/SemiSecret.h>
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/glext.h>
+i<QuartzCore/QuartzCore.h>
+i<unistd.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxGroup.m
+c000000004D8709380000000000002305
+t1300695352
+s8965
+i<Flixel/Flixel.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxList.m
+c000000004D870938000000000000042B
+t1300695352
+s1067
+i<Flixel/Flixel.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxManagedSprite.m
+c000000004D87093800000000000025A6
+t1300695352
+s9638
+i<Flixel/Flixel.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxObject.m
+c000000004D870938000000000000211C
+t1300695352
+s8476
+i<Flixel/Flixel.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxPoint.m
+c000000004D8709380000000000000665
+t1300695352
+s1637
+i<Flixel/Flixel.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxQuadTree.m
+c000000004D87093800000000000039C0
+t1300695352
+s14784
+i<Flixel/Flixel.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxQuake.m
+c000000004D8709380000000000000712
+t1300695352
+s1810
+i<Flixel/Flixel.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxRect.m
+c000000004D870938000000000000061A
+t1300695352
+s1562
+i<Flixel/Flixel.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxSave.m
+c000000004D8709380000000000000DD0
+t1300695352
+s3536
+i<Flixel/Flixel.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxSound.m
+c000000004D870938000000000000306B
+t1300695352
+s12395
+i<Flixel/Flixel.h>
+i<AudioToolbox/AudioToolbox.h>
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<CoreAudio/CoreAudioTypes.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxSprite.m
+c000000004D870938000000000000668B
+t1300695352
+s26251
+i<Flixel/Flixel.h>
+i<SemiSecret/SemiSecret.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxState.m
+c000000004D8709380000000000000774
+t1300695352
+s1908
+i<Flixel/Flixel.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxText.m
+c000000004D8709380000000000002071
+t1300695352
+s8305
+i<Flixel/Flixel.h>
+i<SemiSecret/SemiSecret.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxTileblock.m
+c000000004D870938000000000000151C
+t1300695352
+s5404
+i<Flixel/Flixel.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxTouches.m
+c000000004D8709380000000000000DCC
+t1300695352
+s3532
+i<Flixel/Flixel.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxU.m
+c000000004D8709380000000000005C49
+t1300695352
+s23625
+i<Flixel/Flixel.h>
+i<UIKit/UIKit.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/SemiSecret/SemiSecretFont.m
+c000000004D8709380000000000000D6E
+t1300695352
+s3438
+i<SemiSecret/SemiSecret.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/SemiSecret/SemiSecretText.m
+c000000004D8709380000000000003B35
+t1300695352
+s15157
+i<SemiSecret/SemiSecret.h>
+
+N/Users/initials/developer/FlxInvaders/flixel-ios/src/SemiSecret/SemiSecretTexture.m
+c000000004D8709380000000000003DCB
+t1300695352
+s15819
+i<SemiSecret/SemiSecret.h>
+i<Flixel/FlxGLView.h>
+i<Flixel/FlxG.h>
+
+N/Users/initials/developer/FlxInvaders/main.m
+c000000004D870938000000000000032D
+t1300695352
+s813
+i<UIKit/UIKit.h>
+
+N/Users/initials/developer/FlxInvaders/src/FlxInvaders.h
+c000000004D89D9D8000000000000028A
+t1300879832
+s650
+
+N/Users/initials/developer/FlxInvaders/src/FlxInvaders.m
+c000000004D89D9D800000000000003E8
+t1300879832
+s1000
+i"FlxInvaders.h"
+
+N/Users/initials/developer/FlxInvaders/src/PlayState.h
+c000000004D89D9D800000000000004F3
+t1300879832
+s1267
+
+N/Users/initials/developer/FlxInvaders/src/PlayState.m
+c000000004D89D9D80000000000001FEB
+t1300879832
+s8171
+i"PlayState.h"
+i"Ship.h"
+i"Alien.h"
+
+N/var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch.gch
+t1300704191
+s18799216
+
+NInfo.plist
+c000000004D8726680000000000000500
+t1300702824
+s1280
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322572632#322572633#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/Alien.o /Users/initials/developer/FlxInvaders/Classes/Alien.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572642.694262
+e322572642.929100
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/Alien.o
+x/Users/initials/developer/FlxInvaders/Classes/Alien.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/initials/developer/FlxInvaders/Classes/Alien.m322572642#322572642#0(0"0(0#0#53"/Users/initials/developer/FlxInvaders/Classes/Alien.m8606294720#2036"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/Classes/Alien.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/Alien.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/AppDelegate.o /Users/initials/developer/FlxInvaders/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572633.613653
+e322572633.895137
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/AppDelegate.o
+x/Users/initials/developer/FlxInvaders/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/initials/developer/FlxInvaders/Classes/AppDelegate.m322572633#322572633#0(0"0(0#0#59"/Users/initials/developer/FlxInvaders/Classes/AppDelegate.m8604464000#2048"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/Classes/AppDelegate.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlashFunction.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashFunction.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572634.439858
+e322572634.715841
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlashFunction.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashFunction.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashFunction.m322572634#322572634#0(0"0(0#0#74"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashFunction.m8604435968#2065"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashFunction.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlashFunction.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlashObject.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashObject.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572634.715994
+e322572634.794938
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlashObject.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashObject.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashObject.m322572634#322572634#0(0"0(0#0#72"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashObject.m8604021984#2061"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashObject.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlashObject.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlashPoint.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashPoint.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572634.795055
+e322572635.022842
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlashPoint.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashPoint.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashPoint.m322572634#322572635#0(0"0(0#0#71"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashPoint.m8606622272#2059"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashPoint.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlashPoint.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlashRectangle.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashRectangle.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572635.022917
+e322572635.379339
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlashRectangle.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashRectangle.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashRectangle.m322572635#322572635#0(0"0(0#0#75"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashRectangle.m8603385664#2067"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flash/FlashRectangle.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlashRectangle.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlixelAPTBindings.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlixelAPTBindings.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572642.340939
+e322572642.501039
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlixelAPTBindings.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlixelAPTBindings.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlixelAPTBindings.m322572642#322572642#0(0"0(0#0#79"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlixelAPTBindings.m8605727584#2074"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlixelAPTBindings.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlixelAPTBindings.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlixelFont.o /Users/initials/developer/FlxInvaders/flixel-ios/fonts/FlixelFont.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572641.873994
+e322572642.028346
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlixelFont.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/fonts/FlixelFont.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/initials/developer/FlxInvaders/flixel-ios/fonts/FlixelFont.m322572641#322572642#0(0"0(0#0#67"/Users/initials/developer/FlxInvaders/flixel-ios/fonts/FlixelFont.m8604267104#2055"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/fonts/FlixelFont.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlixelFont.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxAnim.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxAnim.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572635.379441
+e322572635.524007
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxAnim.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxAnim.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxAnim.m322572635#322572635#0(0"0(0#0#69"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxAnim.m8606769696#2054"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxAnim.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxAnim.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxButton.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572635.524109
+e322572635.835480
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxButton.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxButton.m322572635#322572635#0(0"0(0#0#71"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxButton.m8604093184#2058"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxButton.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxButton.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxEmitter.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxEmitter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572635.835580
+e322572636.286030
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxEmitter.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxEmitter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxEmitter.m322572635#322572636#0(0"0(0#0#72"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxEmitter.m8603493856#2060"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxEmitter.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxEmitter.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxFade.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxFade.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572636.286246
+e322572636.451011
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxFade.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxFade.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxFade.m322572636#322572636#0(0"0(0#0#69"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxFade.m8606214816#2054"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxFade.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxFade.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxFlash.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxFlash.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572636.287419
+e322572636.471801
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxFlash.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxFlash.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxFlash.m322572636#322572636#0(0"0(0#0#70"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxFlash.m8605814112#2056"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxFlash.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxFlash.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxG.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxG.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572636.451130
+e322572638.707153
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxG.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxG.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxG.m322572636#322572638#0(0"0(0#0#66"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxG.m8606476000#2048"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxG.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxG.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxGLView.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxGLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572636.471915
+e322572636.847762
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxGLView.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxGLView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxGLView.m322572636#322572636#0(0"0(0#0#71"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxGLView.m8605977120#2058"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxGLView.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxGLView.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxGame.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxGame.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572636.847863
+e322572637.874247
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxGame.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxGame.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxGame.m322572636#322572637#0(0"0(0#0#69"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxGame.m8606870144#2054"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxGame.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxGame.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxGroup.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxGroup.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572637.874398
+e322572638.486089
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxGroup.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxGroup.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxGroup.m322572637#322572638#0(0"0(0#0#70"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxGroup.m8604233536#2056"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxGroup.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxGroup.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxInvaders.o /Users/initials/developer/FlxInvaders/src/FlxInvaders.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572633.895260
+e322572633.990921
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxInvaders.o
+x/Users/initials/developer/FlxInvaders/src/FlxInvaders.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/initials/developer/FlxInvaders/src/FlxInvaders.m322572633#322572633#0(0"0(0#0#55"/Users/initials/developer/FlxInvaders/src/FlxInvaders.m8603243232#2044"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/src/FlxInvaders.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxInvaders.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxList.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxList.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572638.486196
+e322572638.603259
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxList.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxList.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxList.m322572638#322572638#0(0"0(0#0#69"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxList.m8605902880#2054"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxList.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxList.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxManagedSprite.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxManagedSprite.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572638.603381
+e322572639.001786
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxManagedSprite.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxManagedSprite.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxManagedSprite.m322572638#322572639#0(0"0(0#0#78"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxManagedSprite.m8604249792#2072"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxManagedSprite.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxManagedSprite.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxObject.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxObject.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572638.707265
+e322572639.382668
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxObject.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxObject.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxObject.m322572638#322572639#0(0"0(0#0#71"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxObject.m8606783616#2058"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxObject.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxObject.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxPoint.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxPoint.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572639.002073
+e322572639.157972
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxPoint.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxPoint.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxPoint.m322572639#322572639#0(0"0(0#0#70"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxPoint.m8606628896#2056"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxPoint.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxPoint.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxQuadTree.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxQuadTree.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572639.158084
+e322572640.228724
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxQuadTree.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxQuadTree.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxQuadTree.m322572639#322572640#0(0"0(0#0#73"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxQuadTree.m8605896800#2062"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxQuadTree.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxQuadTree.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxQuake.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxQuake.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572639.382821
+e322572639.553476
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxQuake.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxQuake.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxQuake.m322572639#322572639#0(0"0(0#0#70"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxQuake.m8606666560#2056"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxQuake.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxQuake.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxRect.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxRect.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572639.553786
+e322572639.674377
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxRect.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxRect.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxRect.m322572639#322572639#0(0"0(0#0#69"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxRect.m8606622464#2054"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxRect.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxRect.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxSave.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxSave.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572639.674488
+e322572639.843518
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxSave.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxSave.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxSave.m322572639#322572639#0(0"0(0#0#69"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxSave.m8605844192#2054"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxSave.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxSave.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxSound.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxSound.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572639.843904
+e322572640.033260
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxSound.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxSound.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxSound.m322572639#322572640#0(0"0(0#0#70"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxSound.m8602276672#2056"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxSound.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxSound.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxSprite.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxSprite.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572640.033382
+e322572641.125053
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxSprite.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxSprite.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxSprite.m322572640#322572641#0(0"0(0#0#71"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxSprite.m8606902496#2058"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxSprite.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxSprite.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxState.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxState.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572640.228831
+e322572640.391938
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxState.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxState.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxState.m322572640#322572640#0(0"0(0#0#70"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxState.m8603889984#2056"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxState.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxState.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxText.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxText.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572640.392042
+e322572640.779397
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxText.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxText.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxText.m322572640#322572640#0(0"0(0#0#69"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxText.m8603458336#2054"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxText.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxText.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxTileblock.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxTileblock.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572642.028473
+e322572642.340833
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxTileblock.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxTileblock.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxTileblock.m322572642#322572642#0(0"0(0#0#74"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxTileblock.m8604162368#2064"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxTileblock.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxTileblock.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxTouches.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxTouches.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572640.779505
+e322572640.998517
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxTouches.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxTouches.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxTouches.m322572640#322572641#0(0"0(0#0#72"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxTouches.m8603565792#2060"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxTouches.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxTouches.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxU.o /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxU.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572640.998705
+e322572641.768802
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxU.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxU.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxU.m322572640#322572641#0(0"0(0#0#66"/Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxU.m8604037504#2048"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/Flixel/FlxU.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxU.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/PlayState.o /Users/initials/developer/FlxInvaders/src/PlayState.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572633.991050
+e322572634.439755
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/PlayState.o
+x/Users/initials/developer/FlxInvaders/src/PlayState.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/initials/developer/FlxInvaders/src/PlayState.m322572633#322572634#0(0"0(0#0#53"/Users/initials/developer/FlxInvaders/src/PlayState.m8590952096#2040"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/src/PlayState.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/PlayState.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/SemiSecretFont.o /Users/initials/developer/FlxInvaders/flixel-ios/src/SemiSecret/SemiSecretFont.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572641.125418
+e322572641.282743
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/SemiSecretFont.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/SemiSecret/SemiSecretFont.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/SemiSecret/SemiSecretFont.m322572641#322572641#0(0"0(0#0#80"/Users/initials/developer/FlxInvaders/flixel-ios/src/SemiSecret/SemiSecretFont.m8606778016#2072"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/SemiSecret/SemiSecretFont.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/SemiSecretFont.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/SemiSecretText.o /Users/initials/developer/FlxInvaders/flixel-ios/src/SemiSecret/SemiSecretText.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572641.282869
+e322572641.873871
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/SemiSecretText.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/SemiSecret/SemiSecretText.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/SemiSecret/SemiSecretText.m322572641#322572641#0(0"0(0#0#80"/Users/initials/developer/FlxInvaders/flixel-ios/src/SemiSecret/SemiSecretText.m8604427968#2072"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/SemiSecret/SemiSecretText.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/SemiSecretText.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/SemiSecretTexture.o /Users/initials/developer/FlxInvaders/flixel-ios/src/SemiSecret/SemiSecretTexture.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572641.768907
+e322572642.588075
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/SemiSecretTexture.o
+x/Users/initials/developer/FlxInvaders/flixel-ios/src/SemiSecret/SemiSecretTexture.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/initials/developer/FlxInvaders/flixel-ios/src/SemiSecret/SemiSecretTexture.m322572641#322572642#0(0"0(0#0#83"/Users/initials/developer/FlxInvaders/flixel-ios/src/SemiSecret/SemiSecretTexture.m8606308960#2078"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/flixel-ios/src/SemiSecret/SemiSecretTexture.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/SemiSecretTexture.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/Ship.o /Users/initials/developer/FlxInvaders/Classes/Ship.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572642.588196
+e322572642.745847
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/Ship.o
+x/Users/initials/developer/FlxInvaders/Classes/Ship.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/initials/developer/FlxInvaders/Classes/Ship.m322572642#322572642#0(0"0(0#0#52"/Users/initials/developer/FlxInvaders/Classes/Ship.m8594902464#2034"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/Classes/Ship.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/Ship.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/UIImage+RIFAddition.o /Users/initials/developer/FlxInvaders/Classes/UIImage+RIFAddition.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572642.501223
+e322572642.694155
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/UIImage+RIFAddition.o
+x/Users/initials/developer/FlxInvaders/Classes/UIImage+RIFAddition.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/initials/developer/FlxInvaders/Classes/UIImage+RIFAddition.m322572642#322572642#0(0"0(0#0#67"/Users/initials/developer/FlxInvaders/Classes/UIImage+RIFAddition.m8603532352#2064"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/Classes/UIImage+RIFAddition.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/UIImage+RIFAddition.o0#
+
+CCompileC build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/main.o /Users/initials/developer/FlxInvaders/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322572633.488470
+e322572633.613547
+r1
+xCompileC
+xbuild/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/main.o
+x/Users/initials/developer/FlxInvaders/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/initials/developer/FlxInvaders/main.m322572633#322572633#0(0"0(0#0#44"/Users/initials/developer/FlxInvaders/main.m8604352704#2026"    cd /Users/initials/developer/FlxInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-generated-files.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-own-target-headers.hmap -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-all-target-headers.hmap -iquote /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/FlxInvaders-project-headers.hmap -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -I/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/include -I/Users/initials/developer/FlxInvaders/flixel-ios/Headers -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources/i386 -I/Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/DerivedSources -include /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch -c /Users/initials/developer/FlxInvaders/main.m -o /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/main.o0#
+
+CCpResource build/Debug-iphonesimulator/FlxInvaders.app/Default.png data/Default.png
+s322572633.349392
+e322572633.488047
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlxInvaders.app/Default.png
+xdata/Default.png
+lSLF07#2@21"Copy data/Default.png322572633#322572633#0(0"0(0#0#54"/Users/initials/developer/FlxInvaders/data/Default.png8599806688#475"    cd /Users/initials/developer/FlxInvaders    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/initials/developer/FlxInvaders/data/Default.png /Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app0#
+
+CCpResource build/Debug-iphonesimulator/FlxInvaders.app/Flixel.ttf flixel-ios/fonts/Flixel.ttf
+s322572633.345124
+e322572633.464041
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlxInvaders.app/Flixel.ttf
+xflixel-ios/fonts/Flixel.ttf
+lSLF07#2@32"Copy flixel-ios/fonts/Flixel.ttf322572633#322572633#0(0"0(0#0#65"/Users/initials/developer/FlxInvaders/flixel-ios/fonts/Flixel.ttf8605771552#486"    cd /Users/initials/developer/FlxInvaders    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/initials/developer/FlxInvaders/flixel-ios/fonts/Flixel.ttf /Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app0#
+
+CCpResource build/Debug-iphonesimulator/FlxInvaders.app/alien.png data/alien.png
+s322572633.350757
+e322572633.452752
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlxInvaders.app/alien.png
+xdata/alien.png
+lSLF07#2@19"Copy data/alien.png322572633#322572633#0(0"0(0#0#52"/Users/initials/developer/FlxInvaders/data/alien.png8603532992#473"    cd /Users/initials/developer/FlxInvaders    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/initials/developer/FlxInvaders/data/alien.png /Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app0#
+
+CCpResource build/Debug-iphonesimulator/FlxInvaders.app/icon.png data/icon.png
+s322572633.348515
+e322572633.477128
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlxInvaders.app/icon.png
+xdata/icon.png
+lSLF07#2@18"Copy data/icon.png322572633#322572633#0(0"0(0#0#51"/Users/initials/developer/FlxInvaders/data/icon.png8606495296#472"    cd /Users/initials/developer/FlxInvaders    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/initials/developer/FlxInvaders/data/icon.png /Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app0#
+
+CCpResource build/Debug-iphonesimulator/FlxInvaders.app/ship.png data/ship.png
+s322572633.347273
+e322572633.480583
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlxInvaders.app/ship.png
+xdata/ship.png
+lSLF07#2@18"Copy data/ship.png322572633#322572633#0(0"0(0#0#51"/Users/initials/developer/FlxInvaders/data/ship.png8594843488#472"    cd /Users/initials/developer/FlxInvaders    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/initials/developer/FlxInvaders/data/ship.png /Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app0#
+
+CGenerateDSYMFile /Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app.dSYM /Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app/FlxInvaders
+s322572643.977600
+e322572644.232090
+r1
+xGenerateDSYMFile
+x/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app.dSYM
+x/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app/FlxInvaders
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/FlxInvaders.app.dSYM build/Debug-iphonesimulator/FlxInvaders.app/FlxInvaders322572643#322572644#0(0"0(0#0#93"/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app/FlxInvaders8607089760#392"    cd /Users/initials/developer/FlxInvaders    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app/FlxInvaders -o /Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app.dSYM0#
+
+CLd /Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app/FlxInvaders normal i386
+s322572642.929202
+e322572643.977468
+r1
+xLd
+x/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app/FlxInvaders
+xnormal
+xi386
+lSLF07#2@98"Link /Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app/FlxInvaders322572642#322572643#0(0"0(0#0#0"8602255424#1044"    cd /Users/initials/developer/FlxInvaders    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -F/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator -filelist /Users/initials/developer/FlxInvaders/build/FlxInvaders.build/Debug-iphonesimulator/FlixelBasic.build/Objects-normal/i386/FlxInvaders.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework OpenGLES -framework QuartzCore -framework AVFoundation -framework AudioToolbox -framework CoreAudio -framework OpenAL -framework CoreGraphics -o /Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app/FlxInvaders0#
+
+CProcessInfoPlistFile /Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app/Info.plist Info.plist
+s322572633.147542
+e322572633.345011
+r1
+xProcessInfoPlistFile
+x/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist322572633#322572633#0(0"0(0#0#48"/Users/initials/developer/FlxInvaders/Info.plist30962724186357872#476"    cd /Users/initials/developer/FlxInvaders    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app/Info.plist0#
+
+CProcessPCH /var/folders/40/40613S-4H14l5vHfo3l50U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ahvcsmerccczkidimyvokisnzhfk/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app
+s322572644.232260
+e322572644.248823
+r1
+xTouch
+x/Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app
+lSLF07#2@87"Touch /Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app322572644#322572644#0(0"0(0#0#0"8604162752#280"    cd /Users/initials/developer/FlxInvaders    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/initials/developer/FlxInvaders/build/Debug-iphonesimulator/FlxInvaders.app0#
+

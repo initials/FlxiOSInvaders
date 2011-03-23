@@ -1,6 +1,6 @@
 //
-//  Canabalt.m
-//  Canabalt
+//  FlxInvaders.m
+//  FlxInvaders
 //
 //  Copyright Semi Secret Software 2009-2010. All rights reserved.
 //
