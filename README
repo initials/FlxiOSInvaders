@@ -18,3 +18,5 @@ FlxSprite.color doesn't seem to work.
 I can't figure out how to pass a FlxGroup to a FlxSprite, so all the bullet logic gets done in the PlayState. 
 
 For the original Flash version visit www.flixel.org/flxinvaders
+
+initials
